@@ -56,7 +56,7 @@ copyright = "© 2023 Mykhaylo Malakhov"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
+  #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   ]
