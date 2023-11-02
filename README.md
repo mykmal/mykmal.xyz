@@ -1,5 +1,7 @@
 # Mykhaylo's personal website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4da146-2666-4ab0-8d9e-c7c2474c1ef1/deploy-status)](https://app.netlify.com/sites/mykmal/deploys)
+
 This is the repository for my personal website, which you should visit at <https://mykmal.xyz>.
 
 For those who want to know the details:
