@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.120.4"
+  HUGO_VERSION = "0.121.1"
   NODE_ENV = "production"
   TZ = "UTC-6"  # Set to preferred timezone
 
