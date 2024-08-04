@@ -3,24 +3,24 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "mykmal"
-copyright = "© 2023 Mykhaylo Malakhov"
+title = "Mykhaylo Malakhov"
+copyright = "© 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
 
 [params]
   dateFormat = "January 2, 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Biostatistics PhD student. I develop statistical and machine learning methods to help uncover the genetic causes underlying neurodegenerative diseases."
+  description = "Biostatistics PhD candidate. I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
 
-[author]
+[params.author]
   name = "Mykhaylo M. Malakhov"
   image = "img/mykmal.jpg"
-  headline = "Solving neurodegeneration with genetics + ML."
-  bio = "I am a PhD student in the Division of Biostatistics and Health Data Science at the University of Minnesota School of Public Health. My research focuses on developing statistical and machine learning methods for analyzing genomic data, with the ultimate goal of uncovering the genetic causes and biological processes underlying neurodegenerative diseases."
+  headline = "Deciphering disease biology with genetics and machine learning."
+  bio = "Biostatistics PhD candidate at the University of Minnesota. I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
   links = [
     { linkedin = "https://linkedin.com/in/mykmal" },
-    { instagram = "https://instagram.com/myk_mal" },
     { github = "https://github.com/mykmal" },
+    { google-scholar = "https://scholar.google.com/citations?user=J7Rop8IAAAAJ" },
     { orcid = "https://orcid.org/0000-0002-6856-3913" },
     { email = "mailto:mykhaylomalakhov@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
@@ -37,11 +37,13 @@ copyright = "© 2023 Mykhaylo Malakhov"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
+  #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
+  #   { mendeley = "https://www.mendeley.com/" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
@@ -53,10 +55,11 @@ copyright = "© 2023 Mykhaylo Malakhov"
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
   #   { steam = "https://steamcommunity.com/profiles/userid" },
   #   { telegram = "https://t.me/username" },
+  #   { threads = "https://threads.net/@username" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-  ]
+  # ]

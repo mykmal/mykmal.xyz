@@ -6,20 +6,23 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "fire"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
+
+defaultThemeColor = "#FFFFFF"
 
 enableSearch = false
 enableCodeCopy = true
 enableImageLazyLoading = true
 enableImageWebp = true
+enableQuicklink = true
 
-# robots = ""
+robots = "all"
 fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/m3_small.png"
+  # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
 
@@ -35,29 +38,29 @@ fingerprintAlgorithm = "sha256"
   recentLimit = 5
 
 [article]
-  showDate = true
-  showDateUpdated = true
-  showAuthor = true
-  showBreadcrumbs = true
+  showDate = false
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "telegram", "line"]
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
 
 [list]
   showBreadcrumbs = false
-  showSummary = true
   showTableOfContents = false
   showTaxonomies = false
+  showSummary = true
   groupByYear = true
   paginationWidth = 1
 
@@ -74,6 +77,10 @@ fingerprintAlgorithm = "sha256"
   # domain = "blog.yoursite.com"
   # event = ""
   # script = ""
+
+#[umamiAnalytics]
+#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+#  region = "eu"  # can be either "eu" or "us"
 
 [verification]
   # google = ""
