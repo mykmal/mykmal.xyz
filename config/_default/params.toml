@@ -54,13 +54,13 @@ fingerprintAlgorithm = "sha256"
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing"]
 
 [list]
   showBreadcrumbs = false
+  showSummary = true
   showTableOfContents = false
   showTaxonomies = false
-  showSummary = true
   groupByYear = true
   paginationWidth = 1
 

@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Mykhaylo Malakhov"
-copyright = "© 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
+copyright = "&copy; 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
 
 [params]
   dateFormat = "January 2, 2006"
@@ -18,6 +18,7 @@ copyright = "© 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
   headline = "Deciphering disease biology with genetics and machine learning."
   bio = "Biostatistics PhD candidate at the University of Minnesota. I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
   links = [
+    { instagram = "https://instagram.com/myk_mal" },
     { linkedin = "https://linkedin.com/in/mykmal" },
     { github = "https://github.com/mykmal" },
     { google-scholar = "https://scholar.google.com/citations?user=J7Rop8IAAAAJ" },
@@ -37,7 +38,6 @@ copyright = "© 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
-  #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
@@ -62,4 +62,5 @@ copyright = "© 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
+  #   { xing = "https://xing.com/profile/username" },
   ]
