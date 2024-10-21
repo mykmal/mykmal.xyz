@@ -1,5 +1,0 @@
----
-title: Papers
----
-
-Coming soon!
