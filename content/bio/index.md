@@ -13,7 +13,7 @@ I quickly realized the importance of data in the biological sciences, so after g
 
 Currently I am a PhD candidate in the Division of Biostatistics and Health Data Science at the University of Minnesota School of Public Health, where I am advised by [Wei Pan](https://www.biostat.umn.edu/~weip/). My research interests are highly interdisciplinary and encompass many facets of genetic epidemiology, statistical genetics, and computational biology. All of my work has both theoretical and practical implications. On one hand, I hope to advance statistical methodology by building new frameworks that can be widely applied to a variety of problems. However, my ultimate goals have always centered around making a tangible, real-world impact. I am particularly excited about leveraging big data and machine learning to uncover the genetic causes and molecular pathways underlying complex diseases. In pursuit of that, I am writing my dissertation on statistical methods for integrating genetic information with molecular phenotypes (i.e., omic data).
 
-On this website you can learn more about my [research themes]({{< ref "research" >}}) and find a list of my [publications]({{< ref "papers" >}}). For more details about my background and experience, see my <a href="malakhov_cv.pdf" target="_blank">curriculum vitae</a>.
+On this website you can learn more about my [research themes]({{< ref "research" >}}) and find a list of my [publications]({{< ref "publications" >}}). For more details about my background and experience, see my <a href="malakhov_cv.pdf" target="_blank">curriculum vitae</a>.
 
 ### Russia's invasion of Ukraine
 
