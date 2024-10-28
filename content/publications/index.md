@@ -5,7 +5,7 @@ title: Publications
 ### Working papers
 
 1. Lap Sum Chan, **Mykhaylo M. Malakhov**, and Wei Pan. "Identifying shared and distinct causes of multiple related traits: A robust multi-response Mendelian randomization framework for highly correlated exposures." In preparation.
-1. **Mykhaylo M. Malakhov** and Wei Pan. "Co-expression-wide association studies implicate protein–protein interactions in complex disease risk." Submitted to *The American Journal of Human Genetics.*  
+1. **Mykhaylo M. Malakhov** and Wei Pan. "Co-expression-wide association studies implicate protein–protein interactions in complex disease risk." Submitted to *Nature Communications.*  
     [[medRxiv]](https://www.medrxiv.org/content/10.1101/2024.10.02.24314813) | [[GitHub]](https://github.com/mykmal/cowas) | doi: 10.1101/2024.10.02.24314813
 1. Ruoyu He, Jingchen Ren, **Mykhaylo M. Malakhov**, and Wei Pan. "Enhancing nonlinear transcriptome- and proteome-wide association studies via trait imputation with applications to Alzheimer's disease." In revision at *PLOS Genetics*.
 
