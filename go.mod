@@ -1,5 +1,5 @@
 module github.com/mykmal/mykmal.xyz
 
-go 1.22
+go 1.25
 
-require github.com/jpanther/congo/v2 v2.9.0 // indirect
+require github.com/jpanther/congo/v2 v2.12.2 // indirect
