@@ -3,27 +3,27 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Mykhaylo Malakhov"
-copyright = "&copy; 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0"
+title = "Mykhaylo M. Malakhov"
+copyright = "&copy; 2025 by Mykhaylo M. Malakhov and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 [params]
   dateFormat = "January 2, 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Biostatistics PhD candidate. I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
+  description = "I am a Postdoctoral Scholar at Stanford University, where I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
 
 [params.author]
   name = "Mykhaylo M. Malakhov"
-  image = "img/mykmal.jpg"
+  image = "img/mykmal_headshot_2025_square_small.jpg"
   headline = "Deciphering disease biology with genetics and machine learning."
-  bio = "Biostatistics PhD candidate at the University of Minnesota. I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
+  bio = "I am a Postdoctoral Scholar at Stanford University, where I develop statistical and machine learning methods to uncover the genetic causes and molecular pathways underlying complex diseases."
   links = [
-    { instagram = "https://instagram.com/myk_mal" },
+    { bluesky = "https://bsky.app/profile/mykmal.xyz" },
     { linkedin = "https://linkedin.com/in/mykmal" },
     { github = "https://github.com/mykmal" },
     { google-scholar = "https://scholar.google.com/citations?user=J7Rop8IAAAAJ" },
     { orcid = "https://orcid.org/0000-0002-6856-3913" },
-    { email = "mailto:mykhaylomalakhov@gmail.com" },
+    { email = "mailto:mykmal@stanford.edu" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -38,8 +38,10 @@ copyright = "&copy; 2024 by Mykhaylo M. Malakhov and licensed under CC BY-SA 4.0
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { hashnode = "https://username.hashnode.dev" },
+  #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { kofi = "https://ko-fi.com/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
