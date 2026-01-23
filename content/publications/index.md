@@ -9,7 +9,7 @@ The * symbol denotes equal contributions.
 
 1. **Mykhaylo M. Malakhov** and Wei Pan. "Age-dependent regulation of protein expression and its impact on Alzheimer's disease." In preparation.
 1. **Mykhaylo M. Malakhov** and Shandelle M. Henson. "Backward bifurcations in a low-dimensional model of seabird population dynamics." In preparation.
-1. Lap Sum Chan, **Mykhaylo M. Malakhov**, and Wei Pan. "Identifying shared and distinct causes of multiple related traits: A robust multi-response Mendelian randomization framework for highly correlated exposures." In preparation.
+1. Lap Sum Chan, **Mykhaylo M. Malakhov**, and Wei Pan. "A multi-response Mendelian randomization framework for identifying shared and distinct causes of related traits." In preparation.
 
 ### Peer-reviewed journal articles
 
