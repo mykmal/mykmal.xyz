@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Mykhaylo M. Malakhov"
-copyright = "&copy; 2025 by Mykhaylo M. Malakhov and licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+copyright = "&copy; 2026 Mykhaylo M. Malakhov. Openly licensed via [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
 
 [params]
   dateFormat = "January 2, 2006"
