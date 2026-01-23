@@ -19,11 +19,16 @@
   name = "Research"
   pageRef = "research"
   weight = 20
-  
+
 [[main]]
   name = "Publications"
   pageRef = "publications"
   weight = 30
+
+[[main]]
+  name = "CV"
+  url = "/Malakhov_CV.pdf"
+  weight = 40
 
 [[main]]
   identifier = "appearance"
