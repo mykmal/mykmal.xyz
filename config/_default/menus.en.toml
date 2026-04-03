@@ -11,24 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Bio"
-  pageRef = "bio"
-  weight = 10
-
-[[main]]
   name = "Research"
   pageRef = "research"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Publications"
   pageRef = "publications"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "CV"
-  url = "/Malakhov_CV.pdf"
-  weight = 40
+  url = "/malakhov_cv.pdf"
+  weight = 30
 
 [[main]]
   identifier = "appearance"
