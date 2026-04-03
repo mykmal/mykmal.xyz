@@ -1,6 +1,7 @@
 ---
 title: "Publications"
-description: "My published research works."
+description: "My published papers and preprints."
+summary: "My published papers and preprints."
 ---
 
 The * symbol denotes equal contributions.
