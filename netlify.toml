@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.159.2"
+  HUGO_VERSION = "0.155.3"
   NODE_ENV = "production"
   TZ = "America/Los_Angeles"
 
