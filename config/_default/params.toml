@@ -70,19 +70,19 @@ fingerprintAlgorithm = "sha256"
 [taxonomy]
   showTermCount = true
 
-[fathomAnalytics]
+# [fathomAnalytics]
   # site = "ABC12345"
 
-[plausibleAnalytics]
+# [plausibleAnalytics]
   # domain = "blog.yoursite.com"
   # event = ""
   # script = ""
 
-#[umamiAnalytics]
-#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-#  region = "eu"  # can be either "eu" or "us"
+# [umamiAnalytics]
+  # site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  # region = "eu" # can be either "eu" or "us"
 
-[verification]
+# [verification]
   # google = ""
   # bing = ""
   # pinterest = ""
